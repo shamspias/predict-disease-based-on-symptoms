@@ -18,3 +18,8 @@ need to install those required to run this disease_model.py
 Dataset collect from a study published in Nature Communications, researchers XueZhong Zhou, et al., have constructed a human symptoms-disease network (HSDN)
 link:https://www.nature.com/articles/ncomms5212
 
+
+There disease_model.py can be use as module to predict disease based on symptoms.
+It can use on Djnago Flask or any python based frameworks.
+
+
