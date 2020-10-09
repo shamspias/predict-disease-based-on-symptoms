@@ -4,7 +4,7 @@
 disease_model.py
 Main Model of Disease,
 After modifying dataset into a python dictionary-like, 
-disease in a key and all symptoms related to that disease, a list of value.
+disease in a key and all symptoms related to that disease, to value as list
 
 disease.py
 List of all disease
